@@ -9,3 +9,5 @@ The methods are:
  * Light Graph Convolutional Network (LightGCN): https://arxiv.org/abs/2002.02126 and https://arxiv.org/abs/2108.08735
  * Embarrassingly Shallow AutoEncoders (EASE): https://arxiv.org/abs/1905.03375
  * Neural Network version of EASE (NeuEASE)
+ 
+Note: the models are not tuned and the accuracies are just for demonstration.
