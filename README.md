@@ -1,5 +1,6 @@
 # RecSys-CF
-Implementation of various collaborative filtering methods for recommender systems with implicit feedback
+Implementation of various collaborative filtering methods for recommender systems with implicit feedback.
+
 The methods are:
  * SVD
  * Denoising AutoEncoder (DAE)
