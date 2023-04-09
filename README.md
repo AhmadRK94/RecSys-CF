@@ -1,5 +1,5 @@
 # RecSys-CF
-Implementation of various collaborative filtering methods for recommender systems with implicit feedback.(UPDATING)
+Implementation of various collaborative filtering methods for recommender systems with implicit feedback.
 
 The methods are:
  * SVD
