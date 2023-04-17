@@ -10,5 +10,5 @@ The methods are:
  * Embarrassingly Shallow AutoEncoders (EASE): https://arxiv.org/abs/1905.03375
  * Neural Network version of EASE (NeuEASE)
  
-Note: the models are not tuned and the accuracies are just for demonstration.
+Note: the models are not tuned and the accuracies are just for demonstration.<br>
 Note: im not sure about my negative sampling procedure but the methods implementations are correct.
