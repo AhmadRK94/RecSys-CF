@@ -11,3 +11,4 @@ The methods are:
  * Neural Network version of EASE (NeuEASE)
  
 Note: the models are not tuned and the accuracies are just for demonstration.
+Note: im not sure about my negative sampling procedure but the methods implementations are correct.
